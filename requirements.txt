@@ -31,7 +31,7 @@ numpy==1.16.5
 pandas==0.24.2
 pathlib2==2.3.5
 pathtools==0.1.2
-Pillow==6.2.1
+Pillow==9.0.1
 protobuf==3.11.1
 pyrsistent==0.15.6
 python-dateutil==2.8.0
